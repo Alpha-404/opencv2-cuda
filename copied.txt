@@ -1,0 +1,47 @@
+libopencv_cudafeatures2d.so.412     libopencv_flann.so                       libopencv_phase_unwrapping.so.4.12.0  libopencv_tracking.so.412
+libavahi-client.so.3                 libopencv_cudafeatures2d.so.4.12.0  libopencv_flann.so.412                   libopencv_photo.so                    libopencv_tracking.so.4.12.0
+libavahi-client.so.3.2.9             libopencv_cudafilters.so            libopencv_flann.so.4.12.0                libopencv_photo.so.412                libopencv_videoio.so
+libavahi-common.so.3                 libopencv_cudafilters.so.412        libopencv_freetype.so                    libopencv_photo.so.4.12.0             libopencv_videoio.so.412
+libavahi-common.so.3.5.4             libopencv_cudafilters.so.4.12.0     libopencv_freetype.so.412                libopencv_plot.so                     libopencv_videoio.so.4.12.0
+libavcodec.a                         libopencv_cudaimgproc.so            libopencv_freetype.so.4.12.0             libopencv_plot.so.412                 libopencv_video.so
+libavcodec.so                        libopencv_cudaimgproc.so.412        libopencv_fuzzy.so                       libopencv_plot.so.4.12.0              libopencv_video.so.412
+libavcodec.so.58                     libopencv_cudaimgproc.so.4.12.0     libopencv_fuzzy.so.412                   libopencv_quality.so                  libopencv_video.so.4.12.0
+libavcodec.so.58.134.100             libopencv_cudalegacy.so             libopencv_fuzzy.so.4.12.0                libopencv_quality.so.412              libopencv_videostab.so
+libavformat.a                        libopencv_cudalegacy.so.412         libopencv_gapi.so                        libopencv_quality.so.4.12.0           libopencv_videostab.so.412
+libavformat.so                       libopencv_cudalegacy.so.4.12.0      libopencv_gapi.so.412                    libopencv_rapid.so                    libopencv_videostab.so.4.12.0
+libavformat.so.58                    libopencv_cudaobjdetect.so          libopencv_gapi.so.4.12.0                 libopencv_rapid.so.412                libopencv_wechat_qrcode.so
+libavformat.so.58.76.100             libopencv_cudaobjdetect.so.412      libopencv_hfs.so                         libopencv_rapid.so.4.12.0             libopencv_wechat_qrcode.so.412
+libavutil.a                          libopencv_cudaobjdetect.so.4.12.0   libopencv_hfs.so.412                     libopencv_reg.so                      libopencv_wechat_qrcode.so.4.12.0
+libavutil.so                         libopencv_cudaoptflow.so            libopencv_hfs.so.4.12.0                  libopencv_reg.so.412                  libopencv_xfeatures2d.so
+libavutil.so.56                      libopencv_cudaoptflow.so.412        libopencv_highgui.so                     libopencv_reg.so.4.12.0               libopencv_xfeatures2d.so.412
+libavutil.so.56.70.100               libopencv_cudaoptflow.so.4.12.0     libopencv_highgui.so.412                 libopencv_rgbd.so                     libopencv_xfeatures2d.so.4.12.0
+libcodec2.so.1.0                     libopencv_cudastereo.so             libopencv_highgui.so.4.12.0              libopencv_rgbd.so.412                 libopencv_ximgproc.so
+libdav1d.so.5                        libopencv_cudastereo.so.412         libopencv_imgcodecs.so                   libopencv_rgbd.so.4.12.0              libopencv_ximgproc.so.412
+libopencv_aruco.so                   libopencv_cudastereo.so.4.12.0      libopencv_imgcodecs.so.412               libopencv_saliency.so                 libopencv_ximgproc.so.4.12.0
+libopencv_aruco.so.412               libopencv_cudawarping.so            libopencv_imgcodecs.so.4.12.0            libopencv_saliency.so.412             libopencv_xobjdetect.so
+libopencv_aruco.so.4.12.0            libopencv_cudawarping.so.412        libopencv_img_hash.so                    libopencv_saliency.so.4.12.0          libopencv_xobjdetect.so.412
+libopencv_bgsegm.so                  libopencv_cudawarping.so.4.12.0     libopencv_img_hash.so.412                libopencv_shape.so                    libopencv_xobjdetect.so.4.12.0
+libopencv_bgsegm.so.412              libopencv_cudev.so                  libopencv_img_hash.so.4.12.0             libopencv_shape.so.412                libopencv_xphoto.so
+libopencv_bgsegm.so.4.12.0           libopencv_cudev.so.412              libopencv_imgproc.so                     libopencv_shape.so.4.12.0             libopencv_xphoto.so.412
+libopencv_bioinspired.so             libopencv_cudev.so.4.12.0           libopencv_imgproc.so.412                 libopencv_signal.so                   libopencv_xphoto.so.4.12.0
+libopencv_bioinspired.so.412         libopencv_datasets.so               libopencv_imgproc.so.4.12.0              libopencv_signal.so.412               libsrt-gnutls.so.1.4
+libopencv_bioinspired.so.4.12.0      libopencv_datasets.so.412           libopencv_intensity_transform.so         libopencv_signal.so.4.12.0            libswresample.a
+libopencv_calib3d.so                 libopencv_datasets.so.4.12.0        libopencv_intensity_transform.so.412     libopencv_stereo.so                   libswresample.so
+libopencv_calib3d.so.412             libopencv_dnn_objdetect.so          libopencv_intensity_transform.so.4.12.0  libopencv_stereo.so.412               libswresample.so.3
+libopencv_calib3d.so.4.12.0          libopencv_dnn_objdetect.so.412      libopencv_line_descriptor.so             libopencv_stereo.so.4.12.0            libswresample.so.3.9.100
+libopencv_ccalib.so                  libopencv_dnn_objdetect.so.4.12.0   libopencv_line_descriptor.so.412         libopencv_stitching.so                libswscale.a
+libopencv_ccalib.so.412              libopencv_dnn.so                    libopencv_line_descriptor.so.4.12.0      libopencv_stitching.so.412            libswscale.so
+libopencv_ccalib.so.4.12.0           libopencv_dnn.so.412                libopencv_mcc.so                         libopencv_stitching.so.4.12.0         libswscale.so.5
+libopencv_core.so                    libopencv_dnn.so.4.12.0             libopencv_mcc.so.412                     libopencv_structured_light.so         libswscale.so.5.9.100
+libopencv_core.so.412                libopencv_dnn_superres.so           libopencv_mcc.so.4.12.0                  libopencv_structured_light.so.412     libtiff.a
+libopencv_core.so.4.12.0             libopencv_dnn_superres.so.412       libopencv_ml.so                          libopencv_structured_light.so.4.12.0  libtiff.so
+libopencv_cudaarithm.so              libopencv_dnn_superres.so.4.12.0    libopencv_ml.so.412                      libopencv_superres.so                 libtiff.so.5
+libopencv_cudaarithm.so.412          libopencv_dpm.so                    libopencv_ml.so.4.12.0                   libopencv_superres.so.412             libtiff.so.5.7.0
+libopencv_cudaarithm.so.4.12.0       libopencv_dpm.so.412                libopencv_objdetect.so                   libopencv_superres.so.4.12.0          libtiffxx.a
+libopencv_cudabgsegm.so              libopencv_dpm.so.4.12.0             libopencv_objdetect.so.412               libopencv_surface_matching.so         libtiffxx.so
+libopencv_cudabgsegm.so.412          libopencv_face.so                   libopencv_objdetect.so.4.12.0            libopencv_surface_matching.so.412     libtiffxx.so.5
+libopencv_cudabgsegm.so.4.12.0       libopencv_face.so.412               libopencv_optflow.so                     libopencv_surface_matching.so.4.12.0  libtiffxx.so.5.7.0
+libopencv_cudacodec.so               libopencv_face.so.4.12.0            libopencv_optflow.so.412                 libopencv_text.so                     libvpx.so.7
+libopencv_cudacodec.so.412           libopencv_features2d.so             libopencv_optflow.so.4.12.0              libopencv_text.so.412                 libx264.so.163
+libopencv_cudacodec.so.4.12.0        libopencv_features2d.so.412         libopencv_phase_unwrapping.so            libopencv_text.so.4.12.0
+libopencv_cudafeatures2d.so          libopencv_features2d.so.4.12.0      libopencv_phase_unwrapping.so.412        libopencv_tracking.so
